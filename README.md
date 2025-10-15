@@ -7,3 +7,5 @@ colorTo: red
 sdk: docker
 pinned: false
 license: mit
+Also the main page of the hugging faces space is https://huggingface.co/spaces/pranavp28/tds_project_1
+Do check it out if you need access to the full code along with .env
